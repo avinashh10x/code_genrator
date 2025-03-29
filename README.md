@@ -6,4 +6,5 @@
 
         GOOGLE_AI_API_KEY=YOUR_API_SECRET
 
-## Start your project using npm run dev
+## Start your project
+        using npm run dev

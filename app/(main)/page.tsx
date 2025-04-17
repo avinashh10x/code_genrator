@@ -38,7 +38,7 @@ export default function Home() {
   let [modification, setModification] = useState("");
   let [generatedCode, setGeneratedCode] = useState("");
   let [initialAppConfig, setInitialAppConfig] = useState({
-    model: "",
+    model: "", 
   });
   let [ref, scrollTo] = useScrollTo();
   let [messages, setMessages] = useState<{ role: string; content: string }[]>(

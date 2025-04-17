@@ -13,7 +13,7 @@ export default function Footer() {
           >
             Gemini API
           </a>{" "}
-          and{" "}
+          and{" "} 
           <a
             href="https://github.com/nutlope/llamacoder"
             className="font-semibold text-blue-600 underline-offset-4 transition hover:text-gray-700 hover:underline"
